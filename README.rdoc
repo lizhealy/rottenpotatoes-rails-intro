@@ -1,3 +1,5 @@
 == README
 
-The instructions for this assignment are in the Wiki. There should be a link on the right side of the GitHub repo page.
+This is an application for sorting movies by Title and Release Date.
+Shell by Saasbook
+Updates and Commits by Liz Healy
